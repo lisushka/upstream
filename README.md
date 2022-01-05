@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- **linux.conf.au 2022**, upcoming
+- **linux.conf.au 2022**, 2022-01-15 (open captions, transcript, CC BY-NC-SA 4.0)
 
 ## References
 
