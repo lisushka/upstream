@@ -67,7 +67,7 @@
 
 * [WebAIM WAVE](https://wave.webaim.org/)
 * [axe accessibility checking tools](https://www.deque.com/axe/)
-* [A list of other tools for accessibility testing](https://www.w3.org/WAI/ER/tools/)  (**NOTE:** WAVE and axe are the point-in-time checker and browser extension, respectively, that I prefer.  The tools in this longer list are of varying quality.  However, some of them are designed to detect particular accessibility issues, or assist with manual testing.  I recommend researching the organisations that produce these tools, and seeking recommendations for particular use-cases from people with disabilities.  Specifically, watch out for tools on this list that are produced by [accessibility overlay companies](https://overlayfactsheet.com/).)
+* [A list of other tools for accessibility testing](https://www.w3.org/WAI/ER/tools/)  (**NOTE:** WAVE and axe are the point-in-time checker and browser extension, respectively, that I prefer.  The tools in this longer list are of varying quality.  However, some of them are designed to detect particular accessibility issues, or assist with manual testing; this is why the list is included here.  I recommend researching the organisations that produce these tools, and seeking recommendations for particular use-cases from people with disabilities.  Specifically, watch out for tools on this list that are produced by [accessibility overlay companies](https://overlayfactsheet.com/).)
 
 ## The Shoulders of Giants
 
