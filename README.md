@@ -23,9 +23,27 @@
 
 ### Access to public utilities
 
+#### Robles v. Domino's Pizza LLC
+
+##### Court documents
+
+* [Robles' original complaint in the US District Court for the Central District of California](https://www.courtlistener.com/docket/4615111/1/guillermo-robles-v-dominos-pizza-llc/)
+* [The original verdict of the district court, dismissing Robles' case](https://www.courtlistener.com/docket/4615111/42/guillermo-robles-v-dominos-pizza-llc/)
+* [Summary and full text (PDF) of the Ninth Circuit decision overturning the lower court's verdict](https://law.justia.com/cases/federal/appellate-courts/ca9/17-55504/17-55504-2019-01-15.html)
+* [Domino's Pizza petition for writ of certiorari in the US Supreme Court (PDF)](http://www.supremecourt.gov/DocketPDF/18/18-1539/102950/20190613153319483_DominosPetition.pdf)
+* [Supreme Court release denying certiorari in the case, effectively agreeing with the judgement of the circuit court (PDF, page 18)](https://www.supremecourt.gov/orders/courtorders/100719zor_m648.pdf)
+* [Lower court ruling granting summary judgement to Mr. Robles (PDF)](https://www.adatitleiii.com/wp-content/uploads/sites/121/2021/06/Dominos-MSJ-Order.pdf)
+
+##### News articles
+
+* [Supreme Court hands victory to blind man who sued Domino’s over site accessibility](https://www.cnbc.com/2019/10/07/dominos-supreme-court.html), **Tucker Higgins**, *CNBC*, 2019-10-07
+* [Domino Pizza’s Website Violated the Americans With Disabilities Act (ADA)](https://blog.ericgoldman.org/archives/2021/06/domino-pizzas-website-violated-the-americans-with-disabilities-act-ada-robes-v-dominos.htm), **Eric Goldman**, *Technology and Marketing Law Blog*, 2021-06-27
+
 ### `gov.uk` domains
 
-**NOTE:** The claim that I make about the `.gov.uk` TLD being the most accessible due to not using web frameworks is based on information that's several years out of date.  I have obtained screenshots of page archives from the era where this was true, but as of 2015, many of the `.gov.uk` websites now use Javascript-based frameworks.  `.gov.uk` remains one of the most accessible second-level domains on the Web - I ran a random sample of its pages through the [WAVE](https://wave.webaim.org/) accessibility checker, and all but one had 0 detectable errors.  (This is in contrast to `.gov.au`, where all five of the randomly-selected sites that I ran had errors, with three having more than 10.)
+* [GOV.UK landing page](https://www.gov.uk/)
+
+**NOTE:** The claim that I make about the `.gov.uk` TLD being the most accessible due to not using web frameworks is based on information that's several years out of date.  I have obtained screenshots of page archives from the era where this was true, but as of 2015, UK government websites have been rolled into the landing page above, which uses Javascript and jQuery.  `.gov.uk` remains one of the most accessible second-level domains on the Web - I ran a random sample of its pages through the [WAVE](https://wave.webaim.org/) accessibility checker, and all but one had 0 detectable errors.  (This is in contrast to `.gov.au`, where all five of the randomly-selected sites that I ran had errors, with three having more than 10.)
 
 ### Frameworks on the Web
 
@@ -43,7 +61,18 @@
 
 ### The process of upstream accessibility
 
+* [How to avoid being an accessibility grinch (hosted on Medium; has accessibility problems)](https://uxdesign.cc/how-to-avoid-being-an-accessibility-grinch-85d124440d52) | [accessible version](https://sheribyrnehaber.com/how-to-avoid-being-an-accessibility-grinch/)
+
 ### Accessibility testing tools
+
+* [WebAIM WAVE](https://wave.webaim.org/)
+* [List of tools for accessibility testing](https://www.w3.org/WAI/ER/tools/)
+
+## The Shoulders of Giants
+
+* [Jess Budd](https://jessbudd.com/)
+* [Katie Macke](https://github.com/asleepysheepy)
+* [Sheri Byrne-Haber](https://sheribyrnehaber.com/sheri-byrne-haber-bio/)
 
 ## Images
 
