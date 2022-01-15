@@ -17,9 +17,9 @@
 
 #### Metro Trains
 
-* https://www.metrotrains.com.au/station-accessibility-features/
-* https://ds12k1658w1f2.cloudfront.net/wp-content/uploads/2019/08/J004357-AAP-Booklet-%C6%92_INT.pdf
-* https://www.metrotrains.com.au/station-accessibility-features/boarding/
+* [Train Station Accessibility Features](https://www.metrotrains.com.au/station-accessibility-features/)
+* [Accessible Boarding](https://www.metrotrains.com.au/station-accessibility-features/boarding/)
+* [Metro Trains Accessibility Action Plan](https://ds12k1658w1f2.cloudfront.net/wp-content/uploads/2019/08/J004357-AAP-Booklet-%C6%92_INT.pdf)
 
 ### Access to public utilities
 
@@ -29,11 +29,12 @@
 
 ### Frameworks on the Web
 
-https://webaim.org/projects/million/
-https://tailwindcss.com/
-https://tailwindui.com/
-https://headlessui.dev/
-https://heroicons.com/
+* [The WebAIM Million](https://webaim.org/projects/million/): a survey of the top 1 million sites on the Web by Alexa rank
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Tailwind UI](https://tailwindui.com/)
+* Tailwind Components:
+  - [Headless UI](https://headlessui.dev/)
+  - [HeroIcons](https://heroicons.com/)
 
 ### Just use dark mode, it'll be fine
 
@@ -46,5 +47,6 @@ https://heroicons.com/
 
 ## Images
 
+* [**Melbourne metro**](https://tinyurl.com/upstream-07), eGuide Travel (CC BY 2.0)
 
 [Back to main talks repo](https://github.com/lisushka/talks)
